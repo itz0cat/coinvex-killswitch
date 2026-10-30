@@ -1,4 +1,14 @@
 {
   "kill": false,
-  "enabled": true
+  "enabled": true,
+  "disabled_tags": [],
+  "disabled_users": [],
+  "mods": {
+    "Cat": true,
+    "712": true,
+    "Ri": true,
+    "14": true,
+    "Fe": true,
+    "XD": true
+  }
 }

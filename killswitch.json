@@ -1,5 +1,5 @@
 {
-  "kill": false,
+  "kill": true,
   "enabled": true,
   "disabled_tags": [],
   "disabled_users": [],
